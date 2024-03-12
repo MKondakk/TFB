@@ -1,0 +1,18 @@
+[
+    {
+      "browser": "Firefox",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Firefox_logo%2C_2017.svg/2048px-Firefox_logo%2C_2017.svg.png",
+      "description": "An open-source web browser."
+    },
+    {
+        "browser": "Chrome",
+        "logo": "https://cdn.pixabay.com/photo/2016/04/13/14/27/google-chrome-1326908_960_720.png",
+        "description": "A popular web browser."
+    },
+    {
+        "browser": "Microsoft Edge",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Edge_Logo_2019.svg/1200px-Edge_Logo_2019.svg.png",
+        "description": "Microsoft web browser."
+    } 
+]
+  
