@@ -1,0 +1,20 @@
+[  
+    {
+        "id": 1,
+        "name": "Komputer",
+        "price": 3500,
+        "description": "Laptop do codziennego użytku"  
+    },
+    {    
+         "id": 2,
+         "name": "Telefon",
+         "price": 1000, 
+         "description": "Smartfon z wydajnym procesorem i dużym ekranem"
+    },
+    {    
+        "id": 3,
+        "name": "Tablet",
+        "price": 1500,
+        "description": "Mobilny tablet z systemem operacyjnym Android"  
+    }
+]
