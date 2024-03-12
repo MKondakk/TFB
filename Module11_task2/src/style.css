@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+.meal_detail {
+  display: block;
+}
+.meal_item {
+  margin: 20px;
+}
+.meal_item h3 {
+  margin-bottom: 2px;
+}
+.meal_list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+h2,button {
+  margin-left: 0px;
+}
